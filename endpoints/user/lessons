@@ -5,3 +5,11 @@ GET /fml/app/default/attivita_studente.php?a=get_lezioni&data=YEAR-MONTH-DAY
   "error":"",
   "data":[]
 }
+
+GET /fml/app/default/attivita_studente.php?a=get_lezioni_extracurriculari&data=2026-03-11 
+
+{
+  "result":true,
+  "error":"",
+  "data":[]
+}
