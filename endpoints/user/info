@@ -1,3 +1,6 @@
 GET /tools/app/default/get_username.php
 
 {"username":"ID","nome":"NAME"}
+
+/tools/app/default/get_avatar.php
+/tools/app/default/get_pfolio.php
