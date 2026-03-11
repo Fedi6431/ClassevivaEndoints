@@ -1,0 +1,7 @@
+GET /fml/app/default/attivita_studente.php?a=get_note_disciplinari&data=YEAR-MONTH-DAY
+
+{
+  "result":true,
+  "error":"",
+  "data":[]
+}
