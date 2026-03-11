@@ -1,0 +1,13 @@
+GET /fml/app/default/attivita_studente.php?a=get_stato_giorno&data=YEAR-MONTH-DAY
+
+Response: 
+{
+  "result":true,
+  "error":"",
+  "data":{
+    "stato_giorno":"VALUE",
+    "stato_giorno_desc":"VALUE",
+    "class_background_color":"VALUE",
+    "class_font_color":"VALUE","ora_timbratura":"VALUE"
+    }
+}
