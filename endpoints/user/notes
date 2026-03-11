@@ -5,3 +5,11 @@ GET /fml/app/default/attivita_studente.php?a=get_note_disciplinari&data=YEAR-MON
   "error":"",
   "data":[]
 }
+
+GET /fml/app/default/attivita_studente.php?a=get_annotazioni&data=YEAR-MONTH-DAY
+
+{
+  "result":true,
+  "error":"",
+  "data":[]
+}
