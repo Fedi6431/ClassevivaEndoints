@@ -1,0 +1,10 @@
+GET /fml/app/default/attivita_studente.php?a=get_notifiche&data=YEAR-MONTH-DAY
+
+{
+  "result":true,
+  "error":"",
+  "data":{
+    "messaggi_bacheca":INT_VALUE,
+    "voti":INT_VALUE
+  }
+}
