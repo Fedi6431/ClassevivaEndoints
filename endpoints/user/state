@@ -1,6 +1,5 @@
 GET /fml/app/default/attivita_studente.php?a=get_stato_giorno&data=YEAR-MONTH-DAY
 
-Response: 
 {
   "result":true,
   "error":"",
