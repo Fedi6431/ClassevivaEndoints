@@ -1,0 +1,3 @@
+GET /tools/app/default/get_username.php
+
+{"username":"ID","nome":"NAME"}
