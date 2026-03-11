@@ -1,0 +1,36 @@
+POST /auth-p7/app/default/AuthApi4.php?a=aLoginPwd
+cid=&uid=ID_OR_MAIL&pwd=USER_PASSWORD&pin=&target=
+
+{
+  "time":"2000-01-11T14:22:23+01:00",
+  "data": {
+    "auth": {
+      "verified": BOOL, (true)
+      "loggedIn":BOOL, (true)
+      "actionRequested":BOOL, (false)
+      "hints":[],
+      "errors":[],
+      "accountInfo": {
+        "type":"S",
+        "id":ID,
+        "cognome":"SURNAME",
+        "nome":"NAME",
+        "cid":"CID"},
+        "redirects":[],
+        "aMode":"std",
+        "mMode":"BNC",
+        "errCod":[]
+      },
+    "pfolio":BOOL (false)
+    },
+  "error":[],
+  "api": {
+    "env":"production",
+    "AuthSpa": {
+    "version":"2.10.0"
+    }
+  }
+}
+
+#######################################################
+
