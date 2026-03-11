@@ -1,0 +1,7 @@
+GET /fml/app/default/attivita_studente.php?a=get_lezioni&data=YEAR-MONTH-DAY
+
+{
+  "result":true,
+  "error":"",
+  "data":[]
+}
