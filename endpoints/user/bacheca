@@ -1,0 +1,2 @@
+POST /sif/app/default/bacheca_personale.php
+action=get_comunicazioni&cerca=&ncna=1&tipo_com=
