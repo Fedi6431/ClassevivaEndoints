@@ -1,0 +1,15 @@
+GET /fml/app/default/attivita_studente.php?a=get_eventi_smart&data=YEAR-MONTH-DAY
+
+{
+  "result":true,
+  "error":"",
+  "data":[]
+}
+
+GET /fml/app/default/attivita_studente.php?a=get_eventi_smart_extracurriculari&data=YEAR-MONTH-DAY
+
+{
+  "result":true,
+  "error":"",
+  "data":[]
+}
